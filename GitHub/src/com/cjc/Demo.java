@@ -12,6 +12,7 @@ public class Demo
 	public void m2()
 	{
 		System.out.println("m2");
+		String s="Git";
 	}
 	public static void main(String[] args)
 	{
